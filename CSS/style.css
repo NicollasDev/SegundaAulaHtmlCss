@@ -1,0 +1,51 @@
+body{
+background-color: #272727;
+color: #ffffff;
+}
+
+h1{
+text-align: center;
+}
+
+img{
+    width: 70%;
+    display:block;
+    margin: 0 auto;
+
+    }
+/*Seletor Por TAG*/
+    p{
+Color: grey;
+
+}
+/* Seletor Por Classe */
+.vermelho{
+color: #ff0000;
+}
+/* Seletor Por ID */
+#Parágrafo_Principal{
+font-family: 'Segoe UI';
+
+}
+
+.ex_margin_padding{
+    background-color:white;
+    margin:50px;
+    padding: 25px;
+    font-weight: bold;
+    line-height:30px;
+    font-style:italic; 
+
+}
+
+    .descricao{
+
+ background-image:url("../images/Fundo.jpg");
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+ background-attachment: fixed;
+ padding: 100px 0px;
+
+}
+    
